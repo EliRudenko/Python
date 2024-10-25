@@ -3,7 +3,8 @@
 """
 Главные термены сегодня:
 - экземпляр класса, объект
-- конструктор (нужен для инициализации полей, автоматически вызывается)- аргумент self (всегда ПЕРВЫЙ, ссылаемся/обращаемся к полям и методам ОБЪЕКТА, ВСЕРЕДИНЕ КЛАССА)
+- конструктор (нужен для инициализации полей, автоматически вызывается)
+- аргумент self (всегда ПЕРВЫЙ, ссылаемся/обращаемся к полям и методам ОБЪЕКТА, ВСЕРЕДИНЕ КЛАССА)
 - параметр по умолчанию- методы
 
 - методы
@@ -72,6 +73,8 @@ class Student:
         Student.amount_of_students+=1
     def grow(self, height=1):
         self.height+=height
+        
+        
 nick = Student()
 kate = Student(height=170)
 nick.grow(height=15)
@@ -87,6 +90,8 @@ class Student:
         self.name = name
     def __str__(self):
         return f"I am a student. My name is {self.name}."
+        
+        
 nick = Student(name = "Nick")
 print(nick)
 """
@@ -98,6 +103,8 @@ class Student:
         self.name = name
     def __del__(self):
         print("Training is over. I am now an expert!")
+        
+        
 nick = Student()
 """
 
@@ -111,6 +118,8 @@ class Student:
         return self.name != None
     def __len__(self):
         return self.height
+        
+        
 nick = Student()
 print(nick.__len__())
 print(nick.__bool__())
