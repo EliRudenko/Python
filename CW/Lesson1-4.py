@@ -21,7 +21,7 @@ class Student:
     print("Hi")
 
 
-# first_student = Student()  #экземпляр класса, объект
+obj = Student()  #экземпляр класса, объект
 
 
 """    
