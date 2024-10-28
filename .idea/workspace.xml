@@ -5,6 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50dd2a75-24ba-48ba-8871-01e31a57e422" name="Changes" comment="Add CW">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CW/Lesson5-6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/INDIV/InheritanceInDetail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/INDIV/RepeatTopics.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CW/Lesson1-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/CW/Lesson1-4.py" afterDir="false" />
     </list>
@@ -46,6 +52,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.InheritanceInDetail.executor": "Run",
     "Python.Lesson1-4.executor": "Run",
     "Python.Lesson3-4.executor": "Run",
     "Python.main.executor": "Run",
@@ -53,7 +60,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "D:/PyMA/MyProject",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.spelling"
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   },
   "keyToStringList": {
     "ChangesTree.GroupingKeys": []
@@ -61,8 +68,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\PyMA\ITStepPython\Python\CW" />
       <recent name="D:\PyMA\ITStepPython\Python" />
+      <recent name="D:\PyMA\ITStepPython\Python\CW" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -137,7 +144,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729850452489</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Add CW">
+      <option name="closed" value="true" />
+      <created>1729926480573</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1729926480573</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

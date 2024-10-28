@@ -16,41 +16,17 @@
 
 """
 
+
 # 1
-class Student:
-    print("Hi")
 
 
-obj = Student()  #экземпляр класса, объект
 
 
-"""    
-    def __init__(self):     #конструктор, инициализация полей !!
-        self.height = 160   #self - посилання на самого себе !!        
-        print("I am alive!")
-
-first_student = Student()
-"""
 
 
-# 2 параметры по умолчанию
-"""
-class Student:
-    def __init__(self, height=160):      #параметр по умолчанию
-        self.height = height
-        
-        
-nick = Student()
-kate = Student(height=170)
-print(nick.height)
-print(kate.height)
-# что выведится в консоль?
- 
-"""
 
+# 3 Методы
 
-#3 Методы
-"""
 class Student:
     def __init__(self):        
         self.height = 170
@@ -61,10 +37,9 @@ class Student:
 
 student1 = Student()
 student1.printer()
-"""
 
 
-#grow()
+# grow()
 """
 class Student:
     amount_of_students = 0
@@ -73,8 +48,8 @@ class Student:
         Student.amount_of_students+=1
     def grow(self, height=1):
         self.height+=height
-        
-        
+
+
 nick = Student()
 kate = Student(height=170)
 nick.grow(height=15)
@@ -82,33 +57,13 @@ print(kate.height)
 print(nick.height)
 """
 
+# __str__
 
-#__str__
-"""
-class Student:
-    def __init__(self, name=None):
-        self.name = name
-    def __str__(self):
-        return f"I am a student. My name is {self.name}."
-        
-        
-nick = Student(name = "Nick")
-print(nick)
-"""
 
-#__del__
-"""
-class Student:
-    def __init__(self, name=None):
-        self.name = name
-    def __del__(self):
-        print("Training is over. I am now an expert!")
-        
-        
-nick = Student()
-"""
+# __del__
 
-#__bool__ и __len__
+
+# __bool__ и __len__
 """
 class Student:
     def __init__(self, name=None, height=160):
@@ -118,15 +73,14 @@ class Student:
         return self.name != None
     def __len__(self):
         return self.height
-        
-        
+
+
 nick = Student()
 print(nick.__len__())
 print(nick.__bool__())
 print(len(nick))
 print(bool(nick))
 """
-
 
 # Задания:
 """
@@ -143,22 +97,21 @@ print(bool(nick))
 
 """
 
-
 # Тема: Связывание, Наследование!
 
 
-#4 СВЯЗЫВАНИЕ объектов между собой
+# 4 СВЯЗЫВАНИЕ объектов между собой
 """
 class Human:
     def __init__(self, name="Human"):
         self.name = name
-        
-        
+
+
 class Auto:
     def __init__(self, brand):
         self.brand = brand
         self.passengers = []
-        
+
     def add_passenger(self, human):
         self.passengers.append(human)
 
@@ -169,7 +122,7 @@ class Auto:
                 print(passenger.name)
         else:
             print(f"There are no passengers in {self.brand}")
-        
+
 nick = Human("Nick")
 kate = Human("Kate")
 car = Auto("Mercedes")
@@ -179,7 +132,7 @@ car.print_passengers_names()
 
 """
 
-#Усовершенствование, добавление пассажиров, вывод
+# Усовершенствование, добавление пассажиров, вывод
 """
     def add_passenger(self, *args):
             for passenger in args:
@@ -191,6 +144,5 @@ car.print_passengers_names()
                     print(passenger.name)
             else:
                 print(f"There are no passengers in {self.brand}")
-     
 
 """
