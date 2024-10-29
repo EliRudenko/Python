@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50dd2a75-24ba-48ba-8871-01e31a57e422" name="Changes" comment="Add CW">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CW/Lesson5-6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/INDIV/InheritanceInDetail.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/INDIV/RepeatTopics.py" afterDir="false" />
+    <list default="true" id="50dd2a75-24ba-48ba-8871-01e31a57e422" name="Changes" comment="Add Lessons">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CW/Lesson1-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/CW/Lesson1-4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/INDIV/RepeatTopics.py" beforeDir="false" afterPath="$PROJECT_DIR$/INDIV/RepeatTopics.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +53,7 @@
     "Python.new.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/PyMA/MyProject",
+    "last_opened_file_path": "D:/PyMA/MyProject/python_beginners_course-main",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   },
   "keyToStringList": {
@@ -152,11 +146,20 @@
       <option name="project" value="LOCAL" />
       <updated>1729926480573</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add Lessons">
+      <option name="closed" value="true" />
+      <created>1730145063404</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1730145063404</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add CW" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add CW" />
+    <MESSAGE value="Add Lessons" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Lessons" />
   </component>
 </project>
