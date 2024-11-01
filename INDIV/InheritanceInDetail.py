@@ -5,9 +5,12 @@
 передача объекта одного класса (Teacher)
 в метод другого класса (Student)
 """
+
+
 class Teacher:
     def __init__(self, name):
         self.name = name
+
 
 class Student:
     def __init__(self, name):
@@ -15,7 +18,6 @@ class Student:
 
     def introduce_teacher(self, teacher):   # teacher — параметр, который ожидает объект класса Teacher
         print(f"My teacher is {teacher.name}")  # обращаемся к атрибуту name объекта Teacher
-
 
 
 # Пример использования
@@ -40,13 +42,16 @@ student1.introduce_teacher(teacher1) # объект как аргумент teac
 
 
 #2 Наследование: Животные и их разновидности
+
 class Animal:
     def sound(self):
         print("Some sound")
 
+
 class Cat(Animal):
     def sound(self):
         print("Meow")
+
 
 # Пример использования
 my_pet = Cat()

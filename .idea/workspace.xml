@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="50dd2a75-24ba-48ba-8871-01e31a57e422" name="Changes" comment="Add Lessons">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/INDIV/RepeatTopics.py" beforeDir="false" afterPath="$PROJECT_DIR$/INDIV/RepeatTopics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/INDIV/InheritanceInDetail.py" beforeDir="false" afterPath="$PROJECT_DIR$/INDIV/InheritanceInDetail.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +53,7 @@
     "Python.new.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/PyMA/MyProject/python_beginners_course-main",
+    "last_opened_file_path": "D:/PyMA/ITStepPython/Python",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   },
   "keyToStringList": {
@@ -154,7 +154,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730145063404</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Add Lessons">
+      <option name="closed" value="true" />
+      <created>1730189022445</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1730189022445</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
