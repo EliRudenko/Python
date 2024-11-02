@@ -11,7 +11,6 @@ class Teacher:
     def __init__(self, name):
         self.name = name
 
-
 class Student:
     def __init__(self, name):
         self.name = name
@@ -24,8 +23,6 @@ class Student:
 teacher1 = Teacher("Mr. Ivanov")  # Создание объекта класса Teacher
 student1 = Student("Petya")
 student1.introduce_teacher(teacher1) # объект как аргумент teacher
-
-
 
 # Задание для самостоятельного выполнения:
 """
@@ -52,12 +49,9 @@ class Cat(Animal):
     def sound(self):
         print("Meow")
 
-
 # Пример использования
 my_pet = Cat()
 my_pet.sound()
-
-
 
 # Задание для самостоятельного выполнения:
 """

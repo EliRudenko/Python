@@ -48,8 +48,8 @@ print("Height of pine:", pine.height, "cm")
 
 # 3. Специальные методы (__str__, __bool__, __len__)
 class Flower:
-    def __init__(self, name=None, petals=5):
-        self.name = name
+    def __init__(self, n=None, petals=5):
+        self.name = n
         self.petals = petals
 
     def __str__(self):  # возвращает строковое представление объекта
@@ -59,10 +59,10 @@ class Flower:
         return self.name is not None
 
     def __len__(self):  # длина объекта как количество лепестков
-        return self.petals
+        return
 
 
-rose = Flower(name="Rose", petals=20)
+rose = Flower(n="Rose", petals=20)
 print(str(rose))
 print("Number of petals:", len(rose))
 print("Is flower defined?", bool(rose))
@@ -79,7 +79,7 @@ print("Is flower defined?", bool(rose))
 и методом calculate_area, 
 который вычисляет площадь квадрата по формуле: площадь = side^2.
 
-2. Создайте класс Bicycle с атрибутами 
+2. Создайте класс Bicycle с атрибутами (полями)
 brand (бренд велосипеда), model (модель) и year (год выпуска). 
 Добавьте метод get_age, который вычисляет возраст велосипеда 
 как разницу между текущим годом и годом выпуска.
