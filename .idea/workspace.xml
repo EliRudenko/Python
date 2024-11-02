@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="50dd2a75-24ba-48ba-8871-01e31a57e422" name="Changes" comment="Add Lessons">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CW/Lesson5-6.py" beforeDir="false" afterPath="$PROJECT_DIR$/CW/Lesson5-6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/INDIV/InheritanceInDetail.py" beforeDir="false" afterPath="$PROJECT_DIR$/INDIV/InheritanceInDetail.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -162,7 +163,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730189022445</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Add Lessons">
+      <option name="closed" value="true" />
+      <created>1730470407974</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1730470407974</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

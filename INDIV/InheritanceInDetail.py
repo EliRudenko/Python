@@ -31,7 +31,7 @@ student1.introduce_teacher(teacher1) # объект как аргумент teac
 """
 Создайте классы Doctor и Patient. 
 Класс Doctor должен иметь атрибут `name`, 
-а класс **Patient** — метод `introduce_doctor`, который будет выводить имя врача, 
+а класс Patient — метод `introduce_doctor`, который будет выводить имя врача, 
 переданного в качестве аргумента.
 """
 

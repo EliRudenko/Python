@@ -82,7 +82,7 @@ nick = Child()
 """
 
 
-"""
+
 class Grandparent:
     def about(self):
         print("I am GrandParent")
@@ -92,6 +92,7 @@ class Grandparent:
 
 
 class Parent(Grandparent):
+
     def about_myself(self):
         print("I am Parent")
 
@@ -103,7 +104,7 @@ class Child(Parent):
 
 
 nick = Child()
-"""
+
 
 
 
