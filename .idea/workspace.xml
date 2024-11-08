@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50dd2a75-24ba-48ba-8871-01e31a57e422" name="Changes" comment="Add Lessons" />
+    <list default="true" id="50dd2a75-24ba-48ba-8871-01e31a57e422" name="Changes" comment="Add Lessons">
+      <change afterPath="$PROJECT_DIR$/INDIV/Exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/INDIV/IteratorsGeneratorsClosuresDecorators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/INDIV/InheritanceInDetail.py" beforeDir="false" afterPath="$PROJECT_DIR$/INDIV/InheritanceInDetail.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/INDIV/RepeatTopics.py" beforeDir="false" afterPath="$PROJECT_DIR$/INDIV/RepeatTopics.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -183,7 +189,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730551974959</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Add Lessons">
+      <option name="closed" value="true" />
+      <created>1730554300002</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1730554300002</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
