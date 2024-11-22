@@ -5,11 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50dd2a75-24ba-48ba-8871-01e31a57e422" name="Changes" comment="Add Lessons">
-      <change afterPath="$PROJECT_DIR$/INDIV/Exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/INDIV/IteratorsGeneratorsClosuresDecorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CW/AddFIN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CW/FIN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CW/Lesson7-8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CW/Lesson9-10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/INDIV/Abstraction. Encapsulation. Polymorphism. Static.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/INDIV/Exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/INDIV/Exceptions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/INDIV/InheritanceInDetail.py" beforeDir="false" afterPath="$PROJECT_DIR$/INDIV/InheritanceInDetail.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/INDIV/RepeatTopics.py" beforeDir="false" afterPath="$PROJECT_DIR$/INDIV/RepeatTopics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/INDIV/IteratorsGeneratorsClosuresDecorators.py" beforeDir="false" afterPath="$PROJECT_DIR$/INDIV/IteratorsGeneratorsClosuresDecorators.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,24 +52,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.InheritanceInDetail.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson1-4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson3-4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.new.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/PyMA/ITStepPython/Python&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.AddFIN.executor": "Run",
+    "Python.FIN.executor": "Run",
+    "Python.InheritanceInDetail.executor": "Run",
+    "Python.Lesson1-4.executor": "Run",
+    "Python.Lesson3-4.executor": "Run",
+    "Python.Lesson9-10.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.new.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/PyMA/ITStepPython/Python",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;ChangesTree.GroupingKeys&quot;: []
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": []
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PyMA\ITStepPython\Python\INDIV" />
       <recent name="D:\PyMA\ITStepPython\Python" />
       <recent name="D:\PyMA\ITStepPython\Python\CW" />
     </key>
@@ -197,7 +206,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730554300002</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Add Lessons">
+      <option name="closed" value="true" />
+      <created>1731071387985</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1731071387985</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
